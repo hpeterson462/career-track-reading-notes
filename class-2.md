@@ -1,6 +1,6 @@
 # Articles
 
-## *10 JavaScript Array Methods You Should Know *
+## *10 JavaScript Array Methods You Should Know*
 
 1) forEach()
     1) iterate over an array's items
